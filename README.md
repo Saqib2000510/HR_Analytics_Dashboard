@@ -6,7 +6,7 @@ Insights obtained:
 2. People who had a salary of upto 5K and less where the people who left the company the most.
 3. Maximum prople have left the company wthin just 1 year of completition of the company.
 
-There were many more insights but these were some of the key insights mentioned above
+There were many more insights but these were some of the key insights mentioned above because of which people left the company.
 
 Technicalities used: 
 - Data Cleaning & Processing in Power BI
