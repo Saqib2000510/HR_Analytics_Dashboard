@@ -14,10 +14,9 @@ Technicalities used:
 - Importing data in Power BI
 - Power Query in Power BI
 - Using of DAX functions
-- Measurces and Calculations in Power BI
-- Charts in Power BI
-- Filters and Slicers in Power BI
-- Dashboard in Power BI 
-- Export Power BI Dashboard
-- Insights from Dashboard 
+- Using Charts in Power BI
+- Using Filters and Slicers in Power BI
+- Creating a Dashboard in Power BI 
+- Exporting Power BI Dashboard
+- Obtaining Insights from Dashboard 
 
